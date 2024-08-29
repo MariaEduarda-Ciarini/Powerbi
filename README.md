@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório sobre cursos de Power BI! Aqui, você encontrará 
 
 ## Cursos em Andamento
 
-### 1. [Dashboard com Power BI: Visualizando Dados](hhttps://cursos.alura.com.br/course/dashboard-power-bi-visualizando-dados)
+### 1. [Dashboard com Power BI: Visualizando Dados](https://cursos.alura.com.br/course/dashboard-power-bi-visualizando-dados)
 
 - **Descrição:** Neste curso, estou aprendendo a criar dashboards interativos e informativos com Power BI, explorando as melhores práticas para visualização de dados e criação de relatórios eficazes.
 - **Principais Tópicos:**
@@ -34,7 +34,7 @@ Durante e após a conclusão dos cursos, aplicarei os conhecimentos adquiridos e
 
 Para mais informações sobre os cursos ou para discutir sobre Power BI, você pode me contatar através das redes sociais ou do e-mail:
 
-- **LinkedIn:** [Maria Eduarda Ciarini](https://www.linkedin.com/in/mariaeduardaciarini)
+- **LinkedIn:** [Maria Eduarda Ciarini Moura](https://www.linkedin.com/in/maria-eduarda-ciarini-b97ab6270/)
 - **E-mail:** dudaciarinii@gmail.com
 
 ---

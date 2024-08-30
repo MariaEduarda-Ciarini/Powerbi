@@ -14,3 +14,5 @@
 *.gitattributes linguist-language=gitattributes
 *.gitattributes linguist-detectable=true
 *.gitattributes linguist-documentation=false
+
+*.md linguist-detectable

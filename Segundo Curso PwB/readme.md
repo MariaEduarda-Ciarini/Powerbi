@@ -1,32 +1,82 @@
-# Dashboard com Power BI: Visualizando Dados: 
-## Em andamento o curso...
+# Curso de Business Intelligence com Power BI
 
-Este repositório contém os materiais e projetos desenvolvidos durante o curso **Dashboard com Power BI: Visualizando Dados**.
+Este curso aborda os conceitos e práticas essenciais para a construção de dashboards eficazes utilizando o Power BI. Durante o curso, foram exploradas diversas técnicas e ferramentas que capacitam o profissional a transformar dados em insights visuais de alto impacto.
 
-## Objetivo do Curso
+## Aprendizagens
 
-O curso tem como objetivo ensinar as melhores práticas para criação de dashboards interativos e eficientes utilizando o Power BI. Aprendemos a importar, transformar, modelar e visualizar dados, criando relatórios dinâmicos e ricos em informações.
+### 1. Identificação de Gráficos Apropriados
+- **Objetivo**: Identificar e selecionar os gráficos mais adequados para diferentes tipos de dados e necessidades de análise.
+- **Resultado**: Capacidade de escolher entre gráficos de barras, linhas, dispersão, mapas, entre outros, com base nas características dos dados e na mensagem que se deseja comunicar.
 
-## Conteúdos Abordados
+### 2. Construção de Gráficos no Power BI
+- **Objetivo**: Desenvolver habilidades para construir gráficos diretamente dentro do Power BI, utilizando as ferramentas nativas da plataforma.
+- **Resultado**: Competência na criação de gráficos personalizados e interativos, otimizando a visualização de dados e a compreensão das informações.
 
-- **Introdução ao Power BI**: Visão geral e funcionalidades.
-- **Conexão com fontes de dados**: Importando dados de diferentes fontes como Excel, SQL Server, etc.
-- **Transformação de dados**: Limpando e preparando os dados para análise.
-- **Modelagem de Dados**: Criando relacionamentos entre tabelas e utilizando DAX para cálculos avançados.
-- **Criação de Visualizações**: Construindo gráficos, tabelas, mapas e outros elementos visuais.
-- **Dashboards Interativos**: Técnicas para construir dashboards que permitem a navegação e filtragem de dados em tempo real.
-- **Publicação e Compartilhamento**: Publicando os dashboards no Power BI Service e compartilhando com outros usuários.
+### 3. Importação de Visuais Externos
+- **Objetivo**: Compreender as possibilidades de expandir as capacidades visuais do Power BI através da importação de gráficos externos.
+- **Resultado**: Conhecimento sobre como integrar visuais de terceiros, enriquecendo os relatórios com elementos visuais adicionais que atendem a necessidades específicas.
 
-## Projetos Desenvolvidos
+### 4. Aplicação de Conceitos de Data Visualization
+- **Objetivo**: Aplicar princípios de visualização de dados para comunicar informações de forma clara e eficaz.
+- **Resultado**: Aptidão para criar dashboards que facilitam a interpretação dos dados pelos usuários finais, melhorando a tomada de decisão.
 
-### 1. **Análise de Vendas**
-- **Descrição**: Dashboard para análise de vendas por região, produto e período.
-- **Ferramentas**: Power Query, DAX, gráficos de barras, linhas e mapas.
+### 5. Trabalho com Séries Temporais
+- **Objetivo**: Desenvolver habilidades para trabalhar com dados de séries temporais, aplicando técnicas de análise de tendências ao longo do tempo.
+- **Resultado**: Capacidade de criar gráficos que representem mudanças ao longo do tempo, identificando padrões e anomalias de forma intuitiva.
 
-### 2. **Monitoramento de Desempenho**
-- **Descrição**: Painel de controle para monitoramento de KPIs de desempenho em uma organização.
-- **Ferramentas**: Indicadores de desempenho, gráficos de velocímetro, segmentações de dados.
+### 6. Elaboração de Mapas com Latitude e Longitude
+- **Objetivo**: Compreender e aplicar os conceitos de latitude e longitude na construção de mapas dentro do Power BI.
+- **Resultado**: Habilidade de criar mapas que utilizam dados geoespaciais para fornecer insights baseados em localização, essencial para análises geográficas.
 
-### 3. **Relatório de Recursos Humanos**
-- **Descrição**: Relatório para análise de dados de RH, incluindo turnover, demografia dos funcionários e análise de tempo de serviço.
-- **Ferramentas**: Tabelas, gráficos de dispersão, fatias, e gráficos de pizza.
+### 7. Síntese de Visuais em Relatórios
+- **Objetivo**: Sintetizar todos os gráficos e visuais em um relatório coeso no Power BI, permitindo a navegação eficiente entre diferentes páginas do relatório.
+- **Resultado**: Competência na construção de relatórios dinâmicos e interativos, onde o usuário pode explorar as informações de maneira fluida e organizada.
+
+# Etapa Final do Curso de Business Intelligence com Power BI
+## Preparando o Ambiente: Plano de Fundo
+
+Nesta fase final do curso, consolidamos as aprendizagens preparando o ambiente ideal para a criação de dashboards no contexto de um **E-commerce**.
+
+### E-commerce
+- **Objetivo**: Aplicar os conceitos aprendidos para analisar os dados de um cenário real de e-commerce.
+- **Contexto**: Os dados abrangem informações de vendas, perfil dos clientes e relações entre diferentes métricas que são cruciais para o sucesso de um negócio online.
+
+### Para Saber Mais: Ferramentas de Design
+- **Ferramentas**: Exploração de ferramentas de design que complementam o Power BI, ajudando a criar visuais mais atrativos e eficazes.
+- **Resultado**: Domínio de ferramentas que permitem personalizar o layout dos relatórios, melhorando a estética e a usabilidade dos dashboards.
+
+### Acompanhamento das Vendas
+- **Análise**: Desenvolvimento de relatórios focados no acompanhamento de vendas, identificando tendências e anomalias.
+- **Objetivo**: Monitorar o desempenho de vendas em tempo real, permitindo ajustes estratégicos rápidos.
+
+### Perfil do Cliente
+- **Segmentação**: Análise detalhada do perfil dos clientes, segmentando-os por comportamento, demografia e preferências.
+- **Resultado**: Insights sobre quem são os principais clientes, o que compram e como interagem com o e-commerce.
+
+### Relações Entre as Páginas
+- **Interatividade**: Criação de relações entre as diferentes páginas do relatório, permitindo uma navegação fluida e uma visão integrada dos dados.
+- **Resultado**: Capacidade de construir um relatório onde as diferentes seções se complementam, oferecendo uma visão holística do negócio.
+
+## Projeto Final
+
+- **Desafio**: Colocar em prática todas as competências desenvolvidas ao longo do curso.
+- **Atividade**: Construir um dashboard completo que integre todas as áreas analisadas (vendas, clientes, tendências, etc.).
+- **Resultado**: Um relatório final funcional e visualmente atraente, pronto para ser utilizado em ambientes profissionais.
+
+### Desafio: Hora da Prática
+- **Aplicação**: Desenvolvimento de um projeto prático, onde o aluno deve aplicar todos os conceitos e técnicas aprendidas.
+- **Objetivo**: Consolidar o aprendizado através da prática, enfrentando desafios reais e encontrando soluções criativas.
+
+## O Que Aprendemos?
+
+- **Resumo**:
+  - Revisão das principais competências adquiridas:
+  - Identificação e construção de gráficos.
+  - Importação de visuais externos.
+  - Aplicação de conceitos de data visualization.
+  - Análise de séries temporais.
+  - Elaboração de mapas.
+  - Síntese de visuais em relatórios coesos.
+
+
+
